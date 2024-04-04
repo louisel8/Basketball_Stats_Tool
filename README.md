@@ -1,13 +1,15 @@
 # Basketball Team Stats Tool
 
 Hey friends, this is my second project on my Techdegree journey.
-with using the tool in this project, users will be able to overview the team stats,
-review the players on team, review the guardians on team, and review each team's own stats.
+and this is a revised version.
+
+with using the tool in this project, users will be able to:
+overview the overall team stats and also review each team stats.
 
 # Recap
 
-- defined different functions for repeat logics;
-- raised exceptions when error inputs occurred;
-- used dunder main statement and deep copy function for clearer structure;
+- added the displays of experienced and inexperienced stats;
+- sorted the players and guardians and made sure they are not repeated;
+- corrected the average height;
 
 It's not an easy journey, keep pushing forward and keep learning!
